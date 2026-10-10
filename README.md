@@ -1,5 +1,7 @@
 # ShopSmart AI
 
+Anyone opening this repo should start with [docs/GUIDE.md](docs/GUIDE.md). It maps every requirement to the code and explains each file and function.
+
 ShopSmart is a small e-commerce assistant: a React shop, a Node API, and one assistant that recommends catalog products, answers from approved documents, and reads simulated orders.
 
 The solution design described a Java Spring Boot service. This implementation keeps the same screens, data, and API behavior, and uses Node.js because that was the requested backend.
